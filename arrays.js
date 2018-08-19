@@ -18,6 +18,6 @@ function addElementToEndOfArray(array, element) {
   
 }
 
-function destructibelyAddElementToEndOfArray(array, element) {
+function destructivelyAddElementToEndOfArray(array, element) {
   
 }
